@@ -1,0 +1,10 @@
+Juan Salguero, fractura de pierna, C
+Santiago Cordero, apendicitis, A
+Diego Gudiel, chikunguya, E
+Carmen Sarmientos, dolores de parto, B
+Cristiano Ronaldo, dolor de pecho, B
+Neymar Jr, dolor de cabeza leve, D
+Joan Moso, pérdida de conocimiento, A
+Natalia Ruiz, vómitos y fiebre, C
+Luis Suarez, brazo dislocado, C
+Lucía Morales, reacción alérgica grave, B
