@@ -1,5 +1,5 @@
 package hospital;
-// Paciente.java
+
 public class Paciente implements Comparable<Paciente> {
     private String nombre;
     private String sintoma;
